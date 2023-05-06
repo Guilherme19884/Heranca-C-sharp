@@ -1,0 +1,15 @@
+D:\MeusEstudos\C#\aulaHerancaDio\bin\Debug\net6.0\aulaHerancaDio.exe
+D:\MeusEstudos\C#\aulaHerancaDio\bin\Debug\net6.0\aulaHerancaDio.deps.json
+D:\MeusEstudos\C#\aulaHerancaDio\bin\Debug\net6.0\aulaHerancaDio.runtimeconfig.json
+D:\MeusEstudos\C#\aulaHerancaDio\bin\Debug\net6.0\aulaHerancaDio.dll
+D:\MeusEstudos\C#\aulaHerancaDio\bin\Debug\net6.0\aulaHerancaDio.pdb
+D:\MeusEstudos\C#\aulaHerancaDio\obj\Debug\net6.0\aulaHerancaDio.csproj.AssemblyReference.cache
+D:\MeusEstudos\C#\aulaHerancaDio\obj\Debug\net6.0\aulaHerancaDio.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeusEstudos\C#\aulaHerancaDio\obj\Debug\net6.0\aulaHerancaDio.AssemblyInfoInputs.cache
+D:\MeusEstudos\C#\aulaHerancaDio\obj\Debug\net6.0\aulaHerancaDio.AssemblyInfo.cs
+D:\MeusEstudos\C#\aulaHerancaDio\obj\Debug\net6.0\aulaHerancaDio.csproj.CoreCompileInputs.cache
+D:\MeusEstudos\C#\aulaHerancaDio\obj\Debug\net6.0\aulaHerancaDio.dll
+D:\MeusEstudos\C#\aulaHerancaDio\obj\Debug\net6.0\refint\aulaHerancaDio.dll
+D:\MeusEstudos\C#\aulaHerancaDio\obj\Debug\net6.0\aulaHerancaDio.pdb
+D:\MeusEstudos\C#\aulaHerancaDio\obj\Debug\net6.0\aulaHerancaDio.genruntimeconfig.cache
+D:\MeusEstudos\C#\aulaHerancaDio\obj\Debug\net6.0\ref\aulaHerancaDio.dll
