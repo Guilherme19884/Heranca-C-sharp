@@ -8,5 +8,11 @@ namespace aulaHerancaDio.Models
     public class Professor : Pessoa
     {
         public double salario { get; set; }
+
+        public override void Apresentar()
+        {
+            System.Console.WriteLine($"Olá, meu nome é {nome}, tenho {idade} anos, sou professro e ganho {salario} dollares");
+
+        }
     }
 }

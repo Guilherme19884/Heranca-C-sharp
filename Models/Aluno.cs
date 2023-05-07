@@ -16,5 +16,10 @@ namespace aulaHerancaDio.Models
             return (this.nota1 + this.nota2) / 2;
         }
 
+        public override void Apresentar()
+        {
+            System.Console.WriteLine($"Olá, meu nome é {nome}, tenho {idade} anos, e sou aluno nota {ExibirMedia()} ");
+        }
+
     }
 }

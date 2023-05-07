@@ -10,7 +10,7 @@ namespace aulaHerancaDio.Models
         public String nome { get; set; }
         public int idade { get; set; }
 
-        public void Apresentar()
+        public virtual void Apresentar()
         {
             System.Console.WriteLine($"Meu nome é {nome}, e tenho {idade} anos!");
         }
